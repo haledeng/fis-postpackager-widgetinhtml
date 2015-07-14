@@ -1,0 +1,24 @@
+{
+  "name": "fis-postpackager-widgetinhtml",
+  "version": "0.0.1",
+  "description": "inline widget",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fis"
+  ],
+  "author": {
+    "name": "helondeng"
+  },
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haledeng/fis-postpackager-widgetinhtml.git"
+  },
+  "readmeFilename": "README.md",
+  "license": "BSD",
+  "dependencies": {
+  }
+}
